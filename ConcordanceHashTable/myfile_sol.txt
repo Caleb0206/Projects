@@ -1,0 +1,7 @@
+and: 1
+bananas: 1
+gorilla: 3
+i: 1
+laugh: 2
+live: 2
+love: 1 2
