@@ -1,7 +1,0 @@
-A B
-A C
-C D
-F G
-F H
-H I
-Z Y
